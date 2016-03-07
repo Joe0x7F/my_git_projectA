@@ -1,0 +1,7 @@
+This is feature1.txt
+
+C:\Users\joe\AppData\Roaming\syntevo\SmartGit\7.1
+C:\Users\joe\AppData\Roaming\syntevo\SmartGit\7.1
+C:\Users\joe\AppData\Roaming\syntevo\SmartGit\7.1
+C:\Users\joe\AppData\Roaming\syntevo\SmartGit\7.1
+
